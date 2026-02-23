@@ -1,0 +1,5 @@
+C:\Users\Computer\Desktop\Lab1_ISRPO_Fedorov\obj\Debug\net10.0\Lab1_ISRPO_Fedorov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\Lab1_ISRPO_Fedorov\obj\Debug\net10.0\Lab1_ISRPO_Fedorov.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\Lab1_ISRPO_Fedorov\obj\Debug\net10.0\Lab1_ISRPO_Fedorov.AssemblyInfo.cs
+C:\Users\Computer\Desktop\Lab1_ISRPO_Fedorov\obj\Debug\net10.0\Lab1_ISRPO_Fedorov.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Lab1_ISRPO_Fedorov\obj\Debug\net10.0\Lab1_ISRPO_Fedorov.sourcelink.json
